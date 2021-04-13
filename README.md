@@ -13,7 +13,7 @@
 
 🧠 Lifelong learner, currently learning maths, statistics and CS fundamentals.
 
-👩🏻 In my spare time you may find me biking 🚴🏻, hicking 🧗‍♂️ or just working on any weird side project.
+😎 In my spare time you may find me biking 🚴🏻, hicking 🧗‍♂️ or just working on any weird side project.
 
 
 ![Nicolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=narias1999&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=narias1999&layout=compact&theme=buefy)](https://github.com/narias1999/github-readme-stats)
