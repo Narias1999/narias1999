@@ -20,7 +20,7 @@
 
 
 ## 🖤 Get in touch: 
-* ✨ Twitter: https://twitter.com/narias1999
+* ✨ Twitter: https://twitter.com/nmariasdev
 * ✨ Instagram: https://instagram.com/nmariasdev
 
 <!--
