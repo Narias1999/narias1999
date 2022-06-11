@@ -10,6 +10,7 @@
 * React Native
 * Flutter
 * NodeJS
+* Web Scraping and automation (Puppeteer)
 * SQL
 
 🧠 Lifelong learner, currently learning maths, statistics and CS fundamentals.
