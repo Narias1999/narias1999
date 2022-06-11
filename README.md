@@ -3,11 +3,12 @@
 ###  Fullstack engineer. 
 
 🔬 This is what I'm good at:
-* HTML
-* CSS
 * JavaScript
+* Typescript
 * React
 * Vue
+* React Native
+* Flutter
 * NodeJS
 * SQL
 
